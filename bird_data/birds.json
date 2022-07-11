@@ -47,11 +47,7 @@
     "mice",
     "small mammals",
     "rabbits",
-    "shrews",
-    "newts",
-    "opossum",
-    "skunks",
-    "squirrels"
+    "shrews"
   ],
   "last_seen": {
     "$date": {
