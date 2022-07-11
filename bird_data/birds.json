@@ -1,0 +1,284 @@
+[{
+  "_id": {
+    "$oid": "6268413c613e55b82d7065d2"
+  },
+  "common_name": "Canada Goose",
+  "scientific_name": "Branta canadensis",
+  "wingspan_cm": 152.4,
+  "habitat": "wetlands",
+  "diet": [
+    "grass",
+    "algae"
+  ],
+  "tags": [
+    "geese",
+    "herbivore",
+    "migration"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62684c8c613e55b82d7065d8"
+  },
+  "common_name": "Purple Martin",
+  "scientific_name": "Progne Subis",
+  "wingspan_cm": 45.72,
+  "habitat": "field",
+  "diet": [
+    "insects"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6268471e613e55b82d7065d7"
+  },
+  "common_name": "Great Horned Owl",
+  "scientific_name": "Bubo virginianus",
+  "wingspan_cm": 111.76,
+  "habitat": [
+    "grasslands",
+    "farmland",
+    "tall forest"
+  ],
+  "diet": [
+    "mice",
+    "small mammals",
+    "rabbits",
+    "shrews",
+    "newts",
+    "opossum",
+    "skunks",
+    "squirrels"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62684551613e55b82d7065d4"
+  },
+  "common_name": "Great Blue Heron",
+  "scientific_name": "Ardea herodias",
+  "wingspan_cm": 182.88,
+  "habitat": "wetlands",
+  "diet": [
+    "snails",
+    "crustaceans",
+    "fish",
+    "frogs",
+    "snakes"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62684641613e55b82d7065d6"
+  },
+  "common_name": "Rock Pigeon",
+  "scientific_name": "Columba livia",
+  "wingspan_cm": 71.12,
+  "habitat": [
+    "urban parks",
+    "farmland"
+  ],
+  "diet": [
+    "grass",
+    "grain",
+    "fruit",
+    "weeds",
+    "vegetables"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626844cc613e55b82d7065d3"
+  },
+  "common_name": "Bufflehead",
+  "scientific_name": "Bucephala albeola",
+  "wingspan_cm": 53.3,
+  "habitat": "wetlands",
+  "diet": [
+    "snails",
+    "crustaceans",
+    "water plants"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626845c4613e55b82d7065d5"
+  },
+  "common_name": "Sanderling",
+  "scientific_name": "Calidris alba",
+  "wingspan_cm": 43.18,
+  "habitat": "wetlands",
+  "diet": [
+    "crustaceans",
+    "oceanic invertebrates"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62684d24613e55b82d7065d9"
+  },
+  "common_name": "Palm Warbler",
+  "scientific_name": "Setaphaga palmarum",
+  "wingspan_cm": 20.32,
+  "habitat": "field",
+  "diet": [
+    "insects",
+    "seeds",
+    "berries"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6286727460e9b70db02bb65c"
+  },
+  "species": "E. rubecula",
+  "range": {
+    "type": "Point",
+    "coordinates": [
+      -73.9928,
+      40.7193
+    ]
+  },
+  "wingspan": {
+    "value": "26.5",
+    "unit": "cm"
+  },
+  "coloration": "red",
+  "habitat": [
+    "mountains",
+    "forests"
+  ],
+  "diet": [
+    "insects",
+    "berries"
+  ],
+  "sightings": [
+    {
+      "location": "Glen Arbor, MI",
+      "observations": 4
+    },
+    {
+      "location": "Traverse City, MI",
+      "observations": 20
+    }
+  ],
+  "tags": [
+    "bird",
+    "fauna",
+    "red"
+  ],
+  "common_name": "Robin Redbreast",
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6286809e2f3fa87b7d86dccd"
+  },
+  "common_name": "Northern Cardinal",
+  "scientific_name": "Cardinalis cardinalis",
+  "wingspan_cm": 25.32,
+  "habitat": "woodlands",
+  "diet": [
+    "grain",
+    "seeds",
+    "fruit"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628682d92f3fa87b7d86dcce"
+  },
+  "common_name": "Blue Jay",
+  "scientific_name": "Cyanocitta cristata",
+  "wingspan_cm": 34.17,
+  "habitat": "forests",
+  "diet": [
+    "vegetables",
+    "nuts",
+    "grains"
+  ],
+  "sightings_count": 4,
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628684062f3fa87b7d86dccf"
+  },
+  "common_name": "Morning Dove",
+  "scientific_name": "Zenaida macroura",
+  "wingspan_cm": 37.23,
+  "habitat": [
+    "urban areas",
+    "farms",
+    "grassland"
+  ],
+  "diet": [
+    "seeds"
+  ],
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6286a5612f3fa87b7d86dcd2"
+  },
+  "common_name": "Grackle",
+  "scientific_name": "Quiscalus quiscula",
+  "wingspan_cm": 28.04,
+  "habitat": "pine trees",
+  "diet": [
+    "insects",
+    "minnows",
+    "eggs"
+  ],
+  "sightings_count": 7,
+  "last_seen": {
+    "$date": {
+      "$numberLong": "1652991644083"
+    }
+  }
+}]
