@@ -152,52 +152,6 @@
   }
 },{
   "_id": {
-    "$oid": "6286727460e9b70db02bb65c"
-  },
-  "species": "E. rubecula",
-  "range": {
-    "type": "Point",
-    "coordinates": [
-      -73.9928,
-      40.7193
-    ]
-  },
-  "wingspan": {
-    "value": "26.5",
-    "unit": "cm"
-  },
-  "coloration": "red",
-  "habitat": [
-    "mountains",
-    "forests"
-  ],
-  "diet": [
-    "insects",
-    "berries"
-  ],
-  "sightings": [
-    {
-      "location": "Glen Arbor, MI",
-      "observations": 4
-    },
-    {
-      "location": "Traverse City, MI",
-      "observations": 20
-    }
-  ],
-  "tags": [
-    "bird",
-    "fauna",
-    "red"
-  ],
-  "common_name": "Robin Redbreast",
-  "last_seen": {
-    "$date": {
-      "$numberLong": "1652991644083"
-    }
-  }
-},{
-  "_id": {
     "$oid": "6286809e2f3fa87b7d86dccd"
   },
   "common_name": "Northern Cardinal",
