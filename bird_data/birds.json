@@ -10,11 +10,6 @@
     "grass",
     "algae"
   ],
-  "tags": [
-    "geese",
-    "herbivore",
-    "migration"
-  ],
   "last_seen": {
     "$date": {
       "$numberLong": "1652991644083"
