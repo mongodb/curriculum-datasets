@@ -244,26 +244,6 @@
   }
 },{
   "_id": {
-    "$oid": "628684062f3fa87b7d86dccf"
-  },
-  "common_name": "Morning Dove",
-  "scientific_name": "Zenaida macroura",
-  "wingspan_cm": 37.23,
-  "habitat": [
-    "urban areas",
-    "farms",
-    "grassland"
-  ],
-  "diet": [
-    "seeds"
-  ],
-  "last_seen": {
-    "$date": {
-      "$numberLong": "1652991644083"
-    }
-  }
-},{
-  "_id": {
     "$oid": "6286a5612f3fa87b7d86dcd2"
   },
   "common_name": "Grackle",
