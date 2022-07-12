@@ -206,4 +206,22 @@
       "$numberLong": "1652991644083"
     }
   }
+},{
+  "_id": {
+    "$oid": "62cddf53c1d62bc45439bebf"
+  },
+  "common_name": "Grey Catbird",
+  "scientific_name": "Dumetella carolinensis",
+  "wingspan_cm": 26.04,
+  "habitat": [
+    "vegetation",
+    "Scrublands",
+    "woodlands"
+  ],
+  "diet": [
+    "fruit",
+    "berries",
+    "worms"
+  ],
+  "sightings_count": 3
 }]
